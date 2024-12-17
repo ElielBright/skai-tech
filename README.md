@@ -35,4 +35,4 @@ This app is built with React and Vite for a fast and efficient development exper
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/skai-tech.git
+   git clone https://github.com/ElielBright/skai-tech.git
